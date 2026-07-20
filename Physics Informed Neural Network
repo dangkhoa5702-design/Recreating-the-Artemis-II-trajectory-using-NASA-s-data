@@ -1,0 +1,3 @@
+The physics-informed neural network (PINN) for the Moon’s precessing rosette trajectory admits a complete analytical treatment across five distinct
+mathematical layers. The uploaded derivation develops each layer from first principles and reports numerical verification to machine precision
+wherever a closed-form benchmark is available.
